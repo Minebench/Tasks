@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Private Team Tasks
+    url: https://github.com/Minebench/Internal/issues/new/choose
+    about: Shortcut für Teammitglieder zum internen Tracker
+  - name: "Minebench Forum"
+    url: https://www.minebench.de/forum/
+    about: Für allgemeine Diskusionen die noch keine wirklichen Tasks sind
+  - name: Minebench.de Discord
+    url: https://minebench.de/discord
+    about: Für kurze Fragen
